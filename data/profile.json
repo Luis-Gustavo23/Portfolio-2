@@ -1,129 +1,77 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Luis Gustavo",
+  "photo": "https://avatars.githubusercontent.com/u/186894304?v=4",
+  "job": "Estudante",
+  "location": "Araraquara - SP",
+  "phone": "(14) 99852-5564",
+  "email": "luis.gustavo.167@outlook.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/html.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/css.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSharp",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/git.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
-      "Comunicação",
+      "Organização",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Paciência",
+      "Trabalho em equipe",
+      "Flexibilidade"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
-  ],
-  "educacao": [
-    {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
-      },
-      "certificados": [
-        {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
-        }
-      ]
-    },
-    {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
-      }
-    },
-    {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
-      }
-    }
+  "languages": [
+    "Português BR",
+    "Inglês (iniciante)",
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Netflix",
+      "url": "https://github.com/Luis-Gustavo23/Netflix",
+      "github": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Discord",
+      "url": "https://github.com/Luis-Gustavo23/Construindo-um-Layout-Responsivo-Para-o-Site-do-Discord-Com-CSS",
+      "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
+      "name": "Monitor de alunos / Escola adventista",
+      "period": "06/2025 - 12/2025",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      },
+      {
+      "name": "Aprendiz administrativo / Coca-cola andina",
+      "period": "03/2024 - 06/2025",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      },
+      {
+      "name": "Auxiliar de logística / GrupoSC distribuidora de medicamentos",
+      "period": "05/2023 - 11/2023",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
       }
-    }
   ]
 }
