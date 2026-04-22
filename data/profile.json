@@ -49,12 +49,12 @@
     {
       "name": "Netflix",
       "url": "https://github.com/Luis-Gustavo23/Netflix",
-      "git": true
+      "github": true
     },
     {
       "name": "Discord",
       "url": "https://github.com/Luis-Gustavo23/Construindo-um-Layout-Responsivo-Para-o-Site-do-Discord-Com-CSS",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
