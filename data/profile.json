@@ -1,23 +1,35 @@
 {
   "name": "Luis Gustavo",
   "photo": "https://avatars.githubusercontent.com/u/186894304?v=4",
-  "job": "",
+  "job": "Estudante",
   "location": "Araraquara - SP",
   "phone": "(14) 99852-5564",
   "email": "luis.gustavo.167@outlook.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/html.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/css.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSharp",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/git.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/Luis-Gustavo23/Portfolio-2/refs/heads/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
