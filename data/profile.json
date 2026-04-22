@@ -57,15 +57,21 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
+      "name": "Monitor de alunos / Escola adventista",
+      "period": "06/2025 - 12/2025",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      },
+      {
+      "name": "Aprendiz administrativo / Coca-cola andina",
+      "period": "03/2024 - 06/2025",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      },
+      {
+      "name": "Auxiliar de logística / GrupoSC distribuidora de medicamentos",
+      "period": "05/2023 - 11/2023",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
       }
-    }
   ]
 }
